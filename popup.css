@@ -1,0 +1,29 @@
+body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,sans-serif;background:#121215;color:#f4f2ed;width:340px}
+main{padding:18px}
+.topline{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+.brand{display:flex;align-items:center;gap:10px}
+.cat-mark{width:38px;height:38px;background:#b9f36b;color:#121215;border-radius:12px;display:grid;place-items:center;font-size:18px}
+.brand h1{margin:0;font-size:17px;font-weight:850;letter-spacing:-.5px}
+.brand h1 span{color:#b9f36b}
+.brand small{display:block;font-size:8px;color:#85858e;letter-spacing:1px;font-weight:750;margin-top:2px}
+.status-dot{width:8px;height:8px;background:#b9f36b;border-radius:50%;box-shadow:0 0 8px #b9f36b}
+.hero{background:#18181d;border:1px solid #2a2a32;border-radius:16px;padding:16px}
+.eyebrow{font-size:9px;color:#b9f36b;font-weight:850;letter-spacing:1.2px;margin-bottom:6px}
+.hero h2{margin:0 0 6px;font-size:20px;font-weight:850;letter-spacing:-.6px}
+.hero h2 em{color:#b9f36b;font-style:normal}
+.hero p{margin:0 0 14px;font-size:12px;color:#a3a2aa;line-height:1.5}
+.larry-card{background:#212128;border:1px solid #33333d;border-radius:12px;padding:12px;display:flex;align-items:center;gap:12px;margin-bottom:14px}
+.larry-face{width:32px;height:32px;background:#b9f36b;border-radius:8px;position:relative;flex:none}
+.speech b{display:block;font-size:12px;color:#f4f2ed}
+.speech small{display:block;font-size:10px;color:#85858e;margin-top:2px}
+button#start{width:100%;background:#b9f36b;color:#121215;border:0;border-radius:10px;padding:12px;font-weight:850;font-size:13px;display:flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;transition:.15s}
+button#start:hover{filter:brightness(1.08)}
+#status{margin:10px 0 0;font-size:11px;color:#ff6b6b;text-align:center}
+footer{display:flex;justify-content:space-between;margin-top:14px;font-size:10px;color:#75757d}
+
+button#embedded{width:100%;margin-top:9px;background:#24242a;color:#e9e7e2;border:1px solid #414149;border-radius:10px;padding:10px;font-weight:700;font-size:11px;cursor:pointer}
+button#embedded:hover{border-color:#b9f36b}
+.permission-note{font-size:10px!important;color:#85858e!important;line-height:1.4!important;margin:7px 2px 0!important}
+#status{line-height:1.45}
+
+button#embedded:disabled{opacity:.65;cursor:default}

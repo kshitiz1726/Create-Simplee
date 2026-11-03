@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "ClickSimple",
+  "version": "5.3.0",
+  "description": "A local-first guided browsing assistant with clearer form help, embedded-page inspection, and 17 interface language choices.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Open ClickSimple"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "optional_host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ]
+}
