@@ -27,7 +27,7 @@ ClickSimple is built for everyone, with special attention to India's diverse and
 - V5.0.0 — Fully Resolved Edition.
 - V5.1.0 — Guided Browsing Edition.
 - V5.2.0 — Embedded Guidance Edition.
-- V5.3.0 — India Languages Edition.
+- V5.4.0 — India Languages Edition.
 
 ## Features
 
