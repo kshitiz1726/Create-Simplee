@@ -9,6 +9,12 @@ It is designed to reduce digital barriers for people with disabilities, language
 **Hackathon:** The Bootup Hackathon — Dev Saga  
 **Theme:** Build for Everyone
 
+## Development Status
+
+ClickSimple is currently in its early stages of development and is still being improved. It has not yet been published on the Chrome Web Store.
+
+For now, you can try it by downloading the source code from this repository and installing it manually using Chrome's Developer Mode.
+
 ## Who Is ClickSimple For?
 
 ClickSimple is built for everyone, with special attention to India's diverse and multilingual digital community.
@@ -18,16 +24,6 @@ ClickSimple is built for everyone, with special attention to India's diverse and
 - **Non-English speakers:** People who face language barriers while using online platforms.
 - **First-time internet users:** People who are still learning how to interact with websites and digital services.
 - **Users with limited technical literacy:** People who find complicated forms, buttons, and website instructions difficult to understand.
-
-## Development Journey
-
-- V1.0.0 — Initial prototype and detailed form guidance.
-- V4.1.0 — Evil Larry redesign.
-- V4.2.0 — Multilingual support and keyword search.
-- V5.0.0 — Fully Resolved Edition.
-- V5.1.0 — Guided Browsing Edition.
-- V5.2.0 — Embedded Guidance Edition.
-- V5.4.0 — India Languages Edition.
 
 ## Features
 
@@ -41,24 +37,40 @@ ClickSimple is built for everyone, with special attention to India's diverse and
 - RTL layouts for right-to-left languages
 - Privacy-focused local processing
 
-### Supported Languages
+## Supported Languages
+
+**English:** English
 
 **Indian languages:** Hindi, Bengali, Marathi, Telugu, Tamil, Gujarati, Urdu, Kannada, Odia, and Malayalam.
 
-**Other languages:** English, Chinese, Spanish, Arabic, French, Portuguese, and Russian.
+**Other languages:** Chinese, Spanish, Arabic, French, Portuguese, and Russian.
 
-## Installation
+## Installation Instructions
 
-1. Download the latest version ZIP.
-2. Extract it.
-3. Open `chrome://extensions`.
-4. Enable Developer Mode.
-5. Click Load unpacked.
-6. Select the extracted extension folder.
+Since ClickSimple is not yet available on the Chrome Web Store, follow these steps to install it manually:
+
+1. Open this GitHub repository.
+2. Download the project as a ZIP file.
+3. Extract the downloaded ZIP file.
+4. Open Google Chrome and visit `chrome://extensions`.
+5. Enable **Developer mode** using the toggle in the top-right corner.
+6. Click **Load unpacked**.
+7. Select the extracted ClickSimple extension folder containing `manifest.json`.
+8. Click the ClickSimple icon in your browser toolbar to start using it.
+
+## Development Journey
+
+- V1.0.0 — Initial prototype and detailed form guidance.
+- V4.1.0 — Evil Larry redesign.
+- V4.2.0 — Multilingual support and keyword search.
+- V5.0.0 — Fully Resolved Edition.
+- V5.1.0 — Guided Browsing Edition.
+- V5.2.0 — Embedded Guidance Edition.
+- V5.3.0 — India Languages Edition.
 
 ## Project History
 
-The development journey above highlights the major improvements made to ClickSimple. This repository contains the final submitted version's source code.
+This repository contains the final version of the source code submitted for the hackathon. The project is still evolving, and further improvements and refinements are planned.
 
 ## Our Goal
 
